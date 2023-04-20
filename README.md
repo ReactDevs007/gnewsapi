@@ -1,9 +1,12 @@
-# You need to have Node.js installed. You can download it from https://nodejs.org/
+# GNEWSAPI
 
-# npm install or yarn install
+# Install
+ - You need to have Node.js installed. You can download it from https://nodejs.org/
+ - npm install or yarn install
 
 # Description:
-I used this https://gnews.io/.
+
+https://gnews.io/
 This API will be available at `http://localhost:3000`
 You can use the following query parameters to interact with the API:
 - /articles - Fetch N news articles (default: 10)
