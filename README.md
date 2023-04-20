@@ -1,0 +1,2 @@
+# gnewsapi
+GnewsAPI
